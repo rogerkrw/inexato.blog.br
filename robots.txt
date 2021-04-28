@@ -1,1 +1,1 @@
-Sitemap: https://inexato.blog.br/sitemap.xml
+Sitemap: http://inexato.blog.br/sitemap.xml
